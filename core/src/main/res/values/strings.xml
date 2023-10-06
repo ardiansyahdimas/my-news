@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_business">Business</string>
+    <string name="category_entertaiment">Entertainment</string>
+    <string name="category_general">General</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_all">All Category</string>
+    <string name="cari_disini">Cari disini…</string>
+    <string name="browse_news_by_ncategory">Browse News by \nCategory</string>
+    <string name="oppss_terjadi_kesalahan">Oppss terjadi kesalahan...</string>
+</resources>
