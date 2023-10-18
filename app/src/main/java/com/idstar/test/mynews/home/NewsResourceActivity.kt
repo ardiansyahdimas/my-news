@@ -46,7 +46,7 @@ class NewsResourceActivity : AppCompatActivity() {
         }
     }
 
-    private  fun menu(){
+    private  fun menu() {
         val menuHost: MenuHost = this
         menuHost.addMenuProvider(object : MenuProvider {
             override fun onCreateMenu(menu: Menu, menuInflater: MenuInflater) {
